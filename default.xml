@@ -76,7 +76,7 @@
   <project path="external/bash" name="CyanogenMod/android_external_bash" />
   <project path="external/bison" name="platform/external/bison" groups="pdk" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
   <project path="external/blktrace" name="platform/external/blktrace" groups="pdk-cw-fs" remote="aosp" revision="refs/tags/android-5.0.1_r1" />
-  <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
+  <project path="external/bluetooth/bluez" name="Xperia-P/android_external_bluetooth_bluez" />
   <project path="external/bluetooth/glib" name="aosp-bluez.glib" remote="googlecode" revision="master" groups="pdk" />
   <project path="external/bluetooth/sbc" name="bluetooth/sbc" remote="kernel"     revision="master" groups="pdk" />
   <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
@@ -566,4 +566,5 @@
   <project path="device/sony/nypon" name="Xperia-P/android_device_sony_nypon" />
   <project path="device/sony/montblanc-common" name="Xperia-P/android_device_sony_montblanc-common" />
   <project path="kernel/sony/u8500" name="Xperia-P/android_kernel_sony_u8500" />
+  <project path="hardware/ste-sony" name="Xperia-P/android_hardware_ste-sony" />
 </manifest>
