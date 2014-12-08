@@ -1,5 +1,5 @@
 CyanogenMod Sony Xperia P
-=========== ==== ====== =
+=========================
 
 Submitting Patches
 ------------------
